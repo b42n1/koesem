@@ -1,0 +1,35 @@
+{
+    "menuItems": [
+      {
+        "category": "Appetizers",
+        "name": "Garlic Bread",
+        "description": "Toasted bread with garlic butter",
+        "price": 5.99
+      },
+      {
+        "category": "Appetizers",
+        "name": "Caesar Salad",
+        "description": "Fresh romaine lettuce, croutons, and Caesar dressing",
+        "price": 8.99
+      },
+      {
+        "category": "Main Course",
+        "name": "Grilled Salmon",
+        "description": "Succulent grilled salmon fillet with lemon butter sauce",
+        "price": 18.99
+      },
+      {
+        "category": "Main Course",
+        "name": "Mushroom Risotto",
+        "description": "Creamy risotto with mushrooms and parmesan cheese",
+        "price": 14.99
+      },
+      {
+        "category": "Desserts",
+        "name": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a molten chocolate center",
+        "price": 7.99
+      }
+    ]
+  }
+  
